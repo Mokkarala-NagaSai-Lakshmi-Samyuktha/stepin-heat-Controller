@@ -9,3 +9,5 @@
 [![CI](https://github.com/Mokkarala-NagaSai-Lakshmi-Samyuktha/stepin-heat-Controller/actions/workflows/compile.yml/badge.svg)](https://github.com/Mokkarala-NagaSai-Lakshmi-Samyuktha/stepin-heat-Controller/actions/workflows/compile.yml)
 
 [![Cppcheck-actions](https://github.com/Mokkarala-NagaSai-Lakshmi-Samyuktha/stepin-heat-Controller/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Mokkarala-NagaSai-Lakshmi-Samyuktha/stepin-heat-Controller/actions/workflows/cppcheck.yml)
+
+[![Valgrind](https://github.com/Mokkarala-NagaSai-Lakshmi-Samyuktha/stepin-heat-Controller/actions/workflows/valgrind.yml/badge.svg)](https://github.com/Mokkarala-NagaSai-Lakshmi-Samyuktha/stepin-heat-Controller/actions/workflows/valgrind.yml)
